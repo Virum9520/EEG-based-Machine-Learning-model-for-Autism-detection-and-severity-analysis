@@ -64,21 +64,19 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 ### 1. EEG Preprocessing
 
 * Raw EEG vs. filtered EEG signal
-  ![EEG Preprocessing](figures/ASD.png)
 
 ---
 
 ### 2. Functional Connectivity
 
 * Brain Functional Connectivity (BFC) matrices (ASD vs. TD)
-  ![Functional Connectivity](figures/SS.png)
+  ![Functional Connectivity](figures/ASD.png)
 
 ---
 
-### 3. Grayscale Image Construction
+### 3. Image Construction
 
-* Normalized connectivity matrix → grayscale representation
-  ![Grayscale Images](figures/SS2.png)
+* Normalized connectivity matrix → representation
 
 ---
 
@@ -107,6 +105,8 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 * Severity Classification Results (Stage 2)
   ![Severity Classification](figures/s2.png)
   ![Stage 2](figures/Stage2.jpeg)
+  ![Unsupervised Classification Results](figures/s2.png)
+
 
 ---
 
