@@ -55,7 +55,7 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ## 🔗 Pipeline
 
-![Pipeline](figures/System_Design.png)
+<img src="figures/System_Design.png" alt="Pipeline" width="700"/>
 
 ---
 
@@ -69,8 +69,8 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ### 2. Functional Connectivity
 
-* Brain Functional Connectivity (BFC) matrices
-  ![Functional Connectivity](figures/ASD.png)
+* Brain Functional Connectivity (BFC) matrices  
+  <img src="figures/ASD.png" alt="Functional Connectivity" width="500"/>
 
 ---
 
@@ -82,30 +82,30 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ### 4. Model Architecture
 
-* CNN–LSTM hybrid model for classification
-  ![CNN-LSTM Architecture](figures/cnn-archi.png)
+* CNN–LSTM hybrid model for classification  
+  <img src="figures/cnn-archi.png" alt="CNN-LSTM Architecture" width="500"/>
 
 ---
 
 ### 5. Training Performance
 
-* Loss and accuracy curves during training
-  ![Training Curves](figures/s3.png)
+* Loss and accuracy curves during training  
+  <img src="figures/s3.png" alt="Training Curves" width="500"/>
 
 ---
 
 ### 6. Classification Results
 
-* Confusion Matrix (Stage 1: ASD vs. TD)
-  ![Confusion Matrix](figures/cm.png)
+* Confusion Matrix (Stage 1: ASD vs. TD)  
+  <img src="figures/cm.png" alt="Confusion Matrix" width="500"/>
 
-* ROC Curve & AUC
-  ![ROC Curve](figures/roc.png)
+* ROC Curve & AUC  
+  <img src="figures/roc.png" alt="ROC Curve" width="500"/>
 
-* Severity Classification Results (Stage 2)
-  ![Severity Classification](figures/s2.png)
-  ![Stage 2](figures/Stage2.jpeg)
-  ![Unsupervised Classification Results](figures/s2.png)
+* Severity Classification Results (Stage 2)  
+  <img src="figures/s2.png" alt="Severity Classification" width="500"/>  
+  <img src="figures/Stage2.jpeg" alt="Stage 2" width="500"/>  
+  <img src="figures/s2.png" alt="Unsupervised Classification Results" width="500"/>
 
 
 ---
