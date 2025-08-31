@@ -69,7 +69,7 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ### 2. Functional Connectivity
 
-* Brain Functional Connectivity (BFC) matrices (ASD vs. TD)
+* Brain Functional Connectivity (BFC) matrices
   ![Functional Connectivity](figures/ASD.png)
 
 ---
