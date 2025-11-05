@@ -63,7 +63,7 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ### 1. EEG Preprocessing
 
-* Data Distribution
+* Raw vs Filtered Signal
 
 ---
 
@@ -96,7 +96,7 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ### 6. Classification Results
 
-* Confusion Matrix (Stage 1: ASD vs. TD)  
+* Data Distribution  
   <img src="figures/cm.png" alt="Confusion Matrix" width="500"/>
 
 * ROC Curve & AUC  
