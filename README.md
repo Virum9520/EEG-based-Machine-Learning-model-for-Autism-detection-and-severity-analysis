@@ -1,11 +1,11 @@
-# 🧠 EEG-Based Autism Spectrum Disorder (ASD) Detection and Severity Classification
+# EEG-Based Autism Spectrum Disorder (ASD) Detection and Severity Classification
 
 This repository contains the implementation of a two-stage deep learning system for **EEG-based ASD detection and severity classification**.
 The project leverages **brain functional connectivity (BFC)** features derived from EEG signals, combined with **CNN–LSTM architectures**, to achieve high-accuracy classification.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Methodology](#methodology)
@@ -25,7 +25,7 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ---
 
-## 🔍 Overview
+## Overview
 
 * **Stage 1**: Binary classification of ASD vs. Typically Developing (TD) individuals.
 * **Stage 2**: Severity classification of ASD into sub-groups based on EEG patterns.
@@ -33,7 +33,7 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 1. **EEG Preprocessing**
 
@@ -53,13 +53,13 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ---
 
-## 🔗 Pipeline
+## Pipeline
 
 <img src="figures/System_Design.png" alt="Pipeline" width="700"/>
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ### 1. EEG Preprocessing
 
@@ -110,7 +110,7 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 * Python 3.8+
 * TensorFlow / Keras
@@ -126,7 +126,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -150,7 +150,7 @@ python evaluate.py
 
 ---
 
-## 📈 Results
+## Results
 
 * High accuracy in ASD detection (Stage 1).
 * Robust severity classification performance (Stage 2).
@@ -158,6 +158,6 @@ python evaluate.py
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this work, please cite accordingly
