@@ -63,7 +63,7 @@ The project leverages **brain functional connectivity (BFC)** features derived f
 
 ### 1. EEG Preprocessing
 
-* Raw EEG vs. filtered EEG signal
+* Data Distribution
 
 ---
 
