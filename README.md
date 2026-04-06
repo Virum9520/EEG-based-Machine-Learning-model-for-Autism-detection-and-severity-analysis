@@ -1,8 +1,8 @@
 # EEG-Based Autism Spectrum Disorder (ASD) Detection and Severity Classification
 
-This repository contains the implementation of a two-stage deep learning system for **EEG-based ASD detection and severity classification**.
+This repository is a research project report of a two-stage deep learning system for **EEG-based ASD detection and severity classification**.
 The project leverages **brain functional connectivity (BFC)** features derived from EEG signals, combined with **CNN–LSTM architectures**, to achieve high-accuracy classification.
-
+For code access - email me at virum@umich.edu
 ---
 
 ## Table of Contents
@@ -18,9 +18,6 @@ The project leverages **brain functional connectivity (BFC)** features derived f
   * [Model Architecture](#4-model-architecture)
   * [Training Performance](#5-training-performance)
   * [Classification Results](#6-classification-results)
-* [Requirements](#requirements)
-* [How to Run](#how-to-run)
-* [Results](#results)
 * [Citation](#citation)
 
 ---
@@ -125,22 +122,6 @@ pip install -r requirements.txt
 ```
 
 ---
-
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/asd-eeg-detection.git
-cd asd-eeg-detection
-```
-
-2. Preprocess EEG data and generate functional connectivity matrices.
-3. Train the CNN–LSTM model using:
-
-```bash
-python train.py
-```
 
 4. Evaluate the model:
 
